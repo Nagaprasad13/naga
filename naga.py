@@ -1,0 +1,1 @@
+print("naga is gay")
